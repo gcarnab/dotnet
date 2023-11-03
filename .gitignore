@@ -1,0 +1,8 @@
+# User-specific files
+
+# Build results
+bin/
+obj/
+
+# cache/options directory
+.vscode/
